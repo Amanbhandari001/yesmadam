@@ -1,0 +1,9 @@
+.footer a i{
+color: black;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    
+}
